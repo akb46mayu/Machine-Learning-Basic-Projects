@@ -1,3 +1,2 @@
 # Machine-Learning-Basic-Projects
-## UWML: Coursera Machine learning (University of Washington)
-## STANFML: Coursera Machine learning (Stanford)
+The projects are modified according to coursera's machine learning course (University of Washington)
